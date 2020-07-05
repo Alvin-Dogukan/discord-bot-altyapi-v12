@@ -1,13 +1,13 @@
 # discord-bot-v12
 Serendia Squad için geliştirilen ücretsiz bir alt yapıdır.
 ## İçerikler
-* [Genel](#Genel Bilgi)
-* [Neden bunu kullanmalıyım](#Neden bunu kullanayım)
+* [Genel](#Genel-Bilgi)
+* [Neden bunu kullanmalıyım](#Neden-bunu-kullanayım?)
 * [Kurulum](#Kurulum)
 
-## Genel Bilgi
+## Genel-Bilgi
 
-## Neden bunu kullanayım?
+## Neden-bunu-kullanayım?
 
 ## Ön Hazırlık
 * Node.JS'i bilgisayarınıza kurun.
