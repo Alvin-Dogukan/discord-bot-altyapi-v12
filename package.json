@@ -1,0 +1,17 @@
+{
+  "name": "serendia-v12-altyapi",
+  "version": "1.0.0",
+  "description": "Serendia Squad tarafından paylaşılan kodları yenilikçi bir alt yapıda kullanabilmen için tasarlanmış bot alt yapısıdır.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "V12",
+    "Alt",
+    "yapı",
+    "Alosha"
+  ],
+  "author": "Serendia Squad",
+  "license": "MIT"
+}
