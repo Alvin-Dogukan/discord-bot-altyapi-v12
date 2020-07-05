@@ -1,12 +1,12 @@
 # discord-bot-v12
 Serendia Squad için geliştirilen ücretsiz bir alt yapıdır.
 ## İçerikler
-* [Genel](#gnrl)
-* [Neden bunu kullanmalıyım](#ndnbu)
-* [Kurulum](#krlm)
+* [Genel](#Genel Bilgi)
+* [Neden bunu kullanmalıyım](#Neden bunu kullanayım)
+* [Kurulum](#Kurulum)
 
-## gnrl
+## Genel Bilgi
 
-## ndnbu?
+## Neden bunu kullanayım?
 
-## krlm
+## Kurulum
