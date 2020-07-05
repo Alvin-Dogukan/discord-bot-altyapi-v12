@@ -24,8 +24,13 @@ Serendia Squad için geliştirilen ücretsiz bir alt yapıdır.
 ```
 $ cd \path\to\klasörIsmi
 $ npm install
+```
+
+Botumuzun genel kurulumunu yaptıktan sonra çalıştırma aşamasına geliyoruz, bot tamamen `index.js`'den çalıştırılması gerekiyor. Ayrıca, bot tamamen senkronize çalışıyor.
+```
 $ node .
 ```
+Yazarak çalıştıramazsanız `node index.js` kullanmayı deneyin.
 
 * Tada! Kurulum başarılı.
 
