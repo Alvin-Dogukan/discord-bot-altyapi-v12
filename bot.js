@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+const { MessageEmbed, Discord } = require("discord.js");
 const client = global.client;
 // ----------------------------------------------
 // Siteden aldığınız kodları bu kısımada koyabilirsiniz.
