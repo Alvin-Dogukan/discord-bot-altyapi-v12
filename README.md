@@ -34,3 +34,7 @@ Yazarak çalıştıramazsanız `node index.js` kullanmayı deneyin.
 * `Prefix`: Komutlarınızın çalışması için kullanılacak ön ektir. `Varsayılan: !`
 * `Özel_Sunucu`: Eğer bu botu 100'den fazla sunucuda kullanmayacaksanız ya da tek bir sunucuda kullanacaksanız bu özelliğin `true` olmasını öneririm, eğer değilse `false` yapabilirsin. `Varsayılan: true`
 * `Debug`: Logs dosyasının içerisine ekstra olarak botun DEBUG hâlini yazdırıyor. Eğer botunuzu geliştiriyorsanız bunu kullanın ancak geliştirmeyi bitirdikten sonra kapatsanız fena olmaz.
+
+## Bilgilendirme
+
+Bu altyapı **Serendia Squad** sunucusu için **Alosha** tarafından hazırlanmıştır.
