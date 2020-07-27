@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = global.client;
 // ----------------------------------------------
-// Siteden aldığınız kodları bu kısmı atabilirsiniz. (Event)
+// Siteden aldığınız kodları bu kısımada koyabilirsiniz.
 
 
 
